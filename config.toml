@@ -1,4 +1,4 @@
-baseurl = "https://vijay07roy-hugo-site.netlify.com/"
+baseurl = "/"
 languageCode = "en-us"
 title = "internet weblog"
 theme = "internet-weblog"
