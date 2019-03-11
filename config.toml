@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "internet weblog"
 theme = "internet-weblog"
+pygmentsstyle = "emacs"
 Paginate = 10
 SectionPagesMenu = "main"
 

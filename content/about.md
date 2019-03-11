@@ -1,13 +1,13 @@
-+++
-title = "About"
-+++
-
+---
+title: About
+---
 # About Me
 
 <div style="float:right; margin:10px 0 10px 30px;">
   <figure>
-    <img src="/assets/josh.jpg" style="width: 300px;" />
+    <img src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" style="width: 300px;" />
     <figcaption>Photo by <a href="http://fuadkamal.org">Fuad Kamal</a>. Used with permission.</figcaption>
+
   </figure>
 </div>
 
@@ -32,54 +32,53 @@ In my spare time, I've been [learning to draw](https://instagram.com/jnjosh) and
 
 #### 2019
 
- - Joined [Grubhub](https://www.grubhub.com) as an iOS Team Lead.
- 
- 
+* Joined [Grubhub](https://www.grubhub.com) as an iOS Team Lead.
+
 #### 2017
 
-  - Started [One Charge Trips](http://onechargetrips.com) making trips from our home to nearby areas on a single charge of our electric vehicles.
-  - Speaker at two local meetups—a “meetup crossover”—[CocoaHeads](https://speakerdeck.com/jnjosh/cross-platform-shenanigans-part-1-ios) and [TriDroid](https://speakerdeck.com/jnjosh/cross-platform-shenanigans-part-2-android) talking about Cross Platform development.
-  - Joined [Highrise](http://www.highrisegame.com) as Lead Mobile Developer.
-  - Relaunched [CocoaHeads.TV](https://cocoaheads.tv).
+* Started [One Charge Trips](http://onechargetrips.com) making trips from our home to nearby areas on a single charge of our electric vehicles.
+* Speaker at two local meetups—a “meetup crossover”—[CocoaHeads](https://speakerdeck.com/jnjosh/cross-platform-shenanigans-part-1-ios) and [TriDroid](https://speakerdeck.com/jnjosh/cross-platform-shenanigans-part-2-android) talking about Cross Platform development.
+* Joined [Highrise](http://www.highrisegame.com) as Lead Mobile Developer.
+* Relaunched [CocoaHeads.TV](https://cocoaheads.tv).
 
 #### 2016
 
-  - Shipped [open source theme, “internet weblog”](https://github.com/jnjosh/internet-weblog) for the [Hugo static generator](https://gohugo.io).
+* Shipped [open source theme, “internet weblog”](https://github.com/jnjosh/internet-weblog) for the [Hugo static generator](https://gohugo.io).
 
 #### 2015
 
-  - Joined [BA3](http://ba3.us) as Senior Software Developer.  
-  - Speaker at [360|iDev](http://360idev.com) about [being a manager](/posts/360idev-2015/).  
-  - Two Toasters acquired by Ticketmaster; continued leading the new [Ticketmaster Mobile Studio](http://tmsdurham.com) development team.
+* Joined [BA3](http://ba3.us) as Senior Software Developer.  
+* Speaker at [360|iDev](http://360idev.com) about [being a manager](/posts/360idev-2015/).  
+* Two Toasters acquired by Ticketmaster; continued leading the new [Ticketmaster Mobile Studio](http://tmsdurham.com) development team.
 
 #### 2014
 
-  - Started leading the iOS (and later Android) team at [Two Toasters](http://twotoasters.com) as Director of Development.
+* Started leading the iOS (and later Android) team at [Two Toasters](http://twotoasters.com) as Director of Development.
 
 #### 2012
 
-  - Switched to the [Dvorak Keyboard Layout](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard) quickly [and began tracking speed](/dvorak).
-  - Launched [CocoaHeads.TV](http://cocoaheads.tv) to share CocoaHeads meetup videos from groups around the world.
-  - Shipped [iOS App for the Bad Movie Podcast](/posts/bad-movie-podcast-app/).
+* Switched to the [Dvorak Keyboard Layout](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard) quickly [and began tracking speed](/dvorak).
+* Launched [CocoaHeads.TV](http://cocoaheads.tv) to share CocoaHeads meetup videos from groups around the world.
+* Shipped [iOS App for the Bad Movie Podcast](/posts/bad-movie-podcast-app/).
 
 #### 2011
 
-  - Speaker at CocoaConf Raleigh
-  - Joined Two Toasters as Senior iOS Developer.
+* Speaker at CocoaConf Raleigh
+* Joined Two Toasters as Senior iOS Developer.
 
 #### 2010
 
-  - Started [CocoaHeads Raleigh](http://meetup.com/nscoderrtp) after attending NSConference Atlanta.
+* Started [CocoaHeads Raleigh](http://meetup.com/nscoderrtp) after attending NSConference Atlanta.
 
 #### 2009
 
-  - iOS App Icon featured in [in-store Christmas display](/posts/my-iphone-apps-icon-in-the-apple-storefront-display/).
+* iOS App Icon featured in [in-store Christmas display](/posts/my-iphone-apps-icon-in-the-apple-storefront-display/).
 
 #### 2008
 
-  - Shipped [iAdvent for iPhone](/iadvent).
-  - Shipped [RealPass for iPhone](/realpass), my first iPhone application.
+* Shipped [iAdvent for iPhone](/iadvent).
+* Shipped [RealPass for iPhone](/realpass), my first iPhone application.
 
 #### 2007
 
-  - Registered [jnjosh.com](/)  
+* Registered [jnjosh.com](/)
